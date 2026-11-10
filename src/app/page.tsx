@@ -221,9 +221,9 @@ export default function PortfolioPage() {
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-slate-900 py-6 text-center text-xs text-slate-500">
-        جميع الحقوق محفوظة © {new Date().getFullYear()}
-      </footer>
+    <footer className="border-t border-slate-900 py-6 text-center text-xs text-slate-500">
+  جميع الحقوق محفوظة © 2026
+</footer>
     </div>
   );
 }
