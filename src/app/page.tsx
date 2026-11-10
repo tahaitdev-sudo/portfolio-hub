@@ -18,9 +18,9 @@ export default function PortfolioPage() {
     },
     {
       title: "المشروع الثاني",
-      description: "وصف ملخص للمشروع الثاني والخدمات التي يقدمها للزوار والعملاء.",
+      description: "موقع خاص بالتسوق لكل القطع الاساسية للابتوبات والموبايلات",
       tags: ["React", "Node.js", "Tailwind CSS"],
-      link: "https://your-second-project.vercel.app",
+      link: "https://taha-tech.fr",
       badge: "تطبيق ويب"
     }
   ];
@@ -91,7 +91,8 @@ export default function PortfolioPage() {
             className="bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold px-6 py-3 rounded-xl border border-slate-700 transition"
           >
             تواصل معي
-          </a>
+          </a> تسوق
+
         </div>
       </section>
 
