@@ -17,7 +17,7 @@ export default function PortfolioPage() {
       badge: "منصة تعليمية"
     },
     {
-      title: "المشروع الثاني",
+      title: " تسوق shooping",
       description: "موقع خاص بالتسوق لكل القطع الاساسية للابتوبات والموبايلات",
       tags: ["React", "Node.js", "Tailwind CSS"],
       link: "https://taha-tech.fr",
@@ -91,7 +91,7 @@ export default function PortfolioPage() {
             className="bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold px-6 py-3 rounded-xl border border-slate-700 transition"
           >
             تواصل معي
-          </a> تسوق
+          </a> 
 
         </div>
       </section>
